@@ -1,0 +1,19 @@
+{
+  "PsbVersion": 2,
+  "PsbType": "ArchiveInfo",
+  "Platform": "none",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "MdfKey": "a23e898ef1032patch_info.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF",
+    "ArchiveSource": [
+      "patch"
+    ],
+    "MdfMtKey": "a23e898ef1032",
+    "ArchiveItemFileNames": []
+  },
+  "Resources": null
+}
